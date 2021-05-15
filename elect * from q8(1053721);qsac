@@ -1,0 +1,29 @@
+   code   | term | prog |        name         | mark | grade | uoc 
+----------+------+------+---------------------+------+-------+-----
+ BENV1080 | 2010 | 3624 | Enabling Skills     |   50 | PS    |   6
+ ENGG1000 | 2010 | 3624 | Engineering Design  |   64 | PS    |   6
+ MATH1141 | 2010 | 3624 | Higher Mathematics  |   96 | HD    |   6
+ PHYS1121 | 2010 | 3624 | Physics 1A          |   88 | HD    |   6
+ CVEN1300 | 2010 | 3620 | Engineering Mechani |   87 | HD    |   6
+ CVEN2101 | 2010 | 3620 | Engineering Constru |   66 | CR    |   6
+ MATH1231 | 2010 | 3620 | Mathematics 1B      |   80 | DN    |   6
+ MATS1101 | 2010 | 3620 | Engineering Materia |   70 | CR    |   6
+ CVEN2301 | 2011 | 3620 | Mechanics of Solids |   86 | HD    |   6
+ CVEN2501 | 2011 | 3620 | Principles of Water |   85 | HD    |   6
+ ENGG1811 | 2011 | 3620 | Computing for Engin |   55 | PS    |   6
+ MATH2019 | 2011 | 3620 | Engineering Mathema |   72 | CR    |   6
+ CVEN2002 | 2011 | 3620 | Engineering Computa |   61 | PS    |   6
+ CVEN2201 | 2011 | 3620 | Soil Mechanics      |   71 | CR    |   6
+ CVEN2302 | 2011 | 3620 | Materials and Struc |   70 | CR    |   6
+ ECON1101 | 2011 | 3620 | Microeconomics 1    |   63 | PS    |   6
+ CVEN3201 | 2012 | 3620 | Applied Geotechnics |   73 | CR    |   6
+ CVEN3301 | 2012 | 3620 | Structural Analysis |   79 | DN    |   6
+ CVEN3401 | 2012 | 3620 | Transport & Highway |   67 | CR    |   6
+ CVEN3501 | 2012 | 3620 | Water Resources Eng |   62 | PS    |   6
+ CVEN3031 | 2012 | 3620 | Civil Engineering P |   55 | PS    |   6
+ CVEN3101 | 2012 | 3620 | Engineering Operati |   75 | DN    |   6
+ CVEN3302 | 2012 | 3620 | Structural Design   |   75 | DN    |   6
+ CVEN3502 | 2012 | 3620 | Water & Wastewater  |   62 | PS    |   6
+          |      |      | Overall WAM/UOC     |   71 |       | 144
+(25 rows)
+

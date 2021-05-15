@@ -1,0 +1,26 @@
+   code   | term | prog |        name         | mark | grade | uoc 
+----------+------+------+---------------------+------+-------+-----
+ SAHT1102 | 2007 | 4800 | Beyond Modernities  |   82 | DN    |   6
+ SART1501 | 2007 | 4800 | Painting            |   75 | DN    |   6
+ SART1601 | 2007 | 4800 | Sculpture           |   85 | HD    |   6
+ SOMA1521 | 2007 | 4800 | Introduction to Ana |   73 | CR    |   6
+ SAHT1101 | 2008 | 4800 | Narratives of Moder |      | T     |   6
+ SART1502 | 2008 | 4800 | Drawing             |      | T     |   6
+ SOMA2521 | 2008 | 4800 | Intro to Studio Lig |   87 | HD    |   6
+ SOMA3858 | 2008 | 4800 | Advanced Studio Lig |   77 | DN    |   6
+ SART2842 | 2009 | 4800 | Metal Casting       |   92 | HD    |   6
+ SOMA2321 | 2009 | 4800 | Photomedia 2A       |   74 | CR    |   6
+ SOMA2341 | 2009 | 4800 | Photomedia 2B       |   87 | HD    |   6
+ SAHT3211 | 2009 | 4800 | Art Since 1990      |   69 | CR    |   6
+ SOMA2331 | 2009 | 4800 | Photomedia 3A       |   83 | DN    |   6
+ SOMA2351 | 2009 | 4800 | Photomedia 3B       |   89 | HD    |   6
+ GENL1062 | 2010 | 4800 | Understanding Human |   71 | CR    |   6
+ SOMA3341 | 2010 | 4800 | Photomedia 4A       |   78 | DN    |   6
+ SOMA3616 | 2010 | 4800 | Professional Practi |   81 | DN    |   6
+ SAHT2668 | 2010 | 4800 | Photography's Histo |   63 | PS    |   6
+ SOMA3351 | 2010 | 4800 | Photomedia 5A       |   71 | CR    |   6
+ SOMA3361 | 2011 | 4800 | Photomedia 4B       |   78 | DN    |   6
+ SOMA3371 | 2011 | 4800 | Photomedia 5B       |   80 | DN    |   6
+          |      |      | Overall WAM/UOC     |   78 |       | 114
+(22 rows)
+
