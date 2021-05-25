@@ -1,7 +1,7 @@
 
 --Vishnu Pillai
 
--- Q1: students who've studied many courses
+-- students who've studied more than 65 courses
 
 create view Q1(unswid,name)
 as
@@ -27,7 +27,7 @@ order by
 
 
 
--- Q2: numbers of students, staff and both
+-- numbers of students, staff and both
 
 create or replace view Q2(nstudents,nstaff,nboth)
 as
@@ -42,7 +42,7 @@ from
 
 
 
--- Q3: prolific Course Convenor(s)
+-- multiple Course Convenor(s)
 
 -- create list of names and the amount of courses
 create or replace view Q3part1(name, ncourses)
@@ -78,7 +78,7 @@ where
 
 
 
--- Q4: Comp Sci students in 05s2 and 17s1
+-- Comp Sci students in 05s2 and 17s1
 
 create or replace view Q4a(id,name)
 as
@@ -122,7 +122,7 @@ order by
 
 
 
--- Q5: most "committee"d faculty
+-- most "committee"d faculty
 
 --apply facultyOf() to all OrgUnits and return a list
 create or replace view Q5part1(id, count)
@@ -166,7 +166,7 @@ from
 
 
 
--- Q6: nameOf function
+-- nameOf function
 
 create or replace function
    Q6(id integer) returns text
@@ -182,7 +182,7 @@ $$ language sql;
 
 
 
--- Q7: offerings of a subject
+-- offerings of a subject
 
 --list of subject codes, terms, and names where there's a course convenor
 create or replace view Q7part1(subject1, term1, convenor1) 
@@ -218,7 +218,7 @@ $$ language sql;
 
 
 
--- Q8: transcript
+-- show academic transcript
 
 create or replace function
    Q8(zid integer) returns setof TranscriptRecord
@@ -306,7 +306,7 @@ $$ language plpgsql;
 
 
 
--- Q9: members of academic object group
+-- members of academic object group
 
 -- create or replace function
 --    Q9(gid integer) returns setof AcObjRecord
@@ -316,7 +316,7 @@ $$ language plpgsql;
 
 
 
--- Q10: follow-on courses
+-- follow-on courses
 
 -- find list, specifically for pre-reqs
 create or replace view Q10part1
