@@ -1,14 +1,4 @@
--- COMP3311 20T3 Assignment 2
---
 -- check.sql ... checking functions
---
--- Written by: John Shepherd, September 2012
--- Updated by: John Shepherd, October 2020
---
-
---
--- Helper functions
---
 
 create or replace function
 	ass2_table_exists(tname text) returns boolean
